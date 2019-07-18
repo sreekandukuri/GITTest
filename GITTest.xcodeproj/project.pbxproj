@@ -16,6 +16,7 @@
 		C146555F22DDC0EC003A5790 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C146555D22DDC0EC003A5790 /* LaunchScreen.storyboard */; };
 		C146556A22DDC0EC003A5790 /* GITTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C146556922DDC0EC003A5790 /* GITTestTests.swift */; };
 		C146557522DDC0EC003A5790 /* GITTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C146557422DDC0EC003A5790 /* GITTestUITests.swift */; };
+		C14A5BB622E09DB4007B3AC2 /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C14A5BB522E09DB4007B3AC2 /* Test2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C146557022DDC0EC003A5790 /* GITTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GITTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C146557422DDC0EC003A5790 /* GITTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GITTestUITests.swift; sourceTree = "<group>"; };
 		C146557622DDC0EC003A5790 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C14A5BB522E09DB4007B3AC2 /* Test2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				C146556022DDC0EC003A5790 /* Info.plist */,
 				C146555822DDC0E9003A5790 /* GITTest.xcdatamodeld */,
 				5D90F73E22E0985500E0FD9A /* TestViewController.swift */,
+				C14A5BB522E09DB4007B3AC2 /* Test2ViewController.swift */,
 			);
 			path = GITTest;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C14A5BB622E09DB4007B3AC2 /* Test2ViewController.swift in Sources */,
 				C146555A22DDC0E9003A5790 /* GITTest.xcdatamodeld in Sources */,
 				C146555422DDC0E9003A5790 /* ViewController.swift in Sources */,
 				5D90F73F22E0985500E0FD9A /* TestViewController.swift in Sources */,
