@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print("test6")
         
         print("testTest")
+        
+        print("Test now")
     }
 
 
